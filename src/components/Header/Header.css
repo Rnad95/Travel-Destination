@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=The+Nautigal:wght@700&display=swap');
+
+h1{
+    font-family:The Garamond; 
+    display: inline-block;
+   
+
+}
+h1::first-letter{
+    font-size:100px;
+    font-family:The Nautigal; 
+    color: aliceblue;
+
+  }

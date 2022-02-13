@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=The+Nautigal:wght@700&display=swap');
+
+.Tours{
+    font-family: Garamond;
+    color: bisque;
+    margin: 20px;
+    padding: 8px;
+    /* position: flex; */
+    text-align: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+   
+    
+}
+
+h3{
+    color: rgb(190, 70, 0);
+    font-family: The Nautigal;
+    font-size: 50px;
+   
+}
+
