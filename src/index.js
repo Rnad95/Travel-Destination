@@ -2,11 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Home from './components/Home/Home';
+import Footer from './components/Footer/Footer';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom'
+import App from './App';
+import Header from './components/Header/Header';
+// import Navbar from './components/Navbar/Navbar';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Home />
+    <BrowserRouter>
+      {/* <Home /> */}
+      <Header />
+      <App />
+
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

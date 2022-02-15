@@ -1,16 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=The+Nautigal:wght@700&display=swap');
 
+
+
+
+
 *{
 background-attachment: fixed;
-background-image: url(https://images.unsplash.com/photo-1600303881706-b8a373dc73c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTd8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
 margin:0
 
 }
 
 img {
-  width: 400px;
-  height: 400px;
+  width: 380px;
+  height: 380px;
   
 }
 body {
