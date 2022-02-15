@@ -1,27 +1,27 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=The+Nautigal:wght@700&display=swap');
 
 
 
-
-.tours{
-    
+.details{
     font-family: Garamond;
     color: bisque;
     margin: 20px;
     padding: 8px;
+    background: rgba(0, 0, 0, 0.507);
+    width: 40%;
+    text-align: center;
     position: relative;
-    text-align: center;    
-    left: 20%;
-    width: 50%;
-    height: 620px;
-    background-color: #1f1d36cc;
-
+    left: 27%;
+   
     
 }
 
+
 h3{
-    
+    /* color: rgb(94, 17, 17); */
+    color:bisque;
     font-family: The Nautigal;
     font-size: 50px;
    
